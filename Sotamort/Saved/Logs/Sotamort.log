@@ -793,3 +793,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-14.23.29:411][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.10-14.23.29:417][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
 [2020.04.10-14.23.29:441][146]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.10-14.32.14:651][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.10-14.32.17:111][196]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/FirstPersonExampleMap_Auto1FD4633DC4E0A3CD65F3266B45A8596D4.tmp' to '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.04.10-14.32.17:159][196]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 2.808
+[2020.04.10-14.32.17:159][196]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.808
+[2020.04.10-14.32.17:160][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Anima] ([1] browsable assets)...
+[2020.04.10-14.32.17:193][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Anima.Anima]
+[2020.04.10-14.32.17:193][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Anima]
+[2020.04.10-14.32.17:193][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anima" FILE="../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/Autosaves/Game/Anima_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.10-14.32.17:381][196]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/Anima_Auto1289FA2C349665695C37951AED83B32E3.tmp' to '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/Autosaves/Game/Anima_Auto1.uasset'
+[2020.04.10-14.32.17:381][196]LogFileHelpers: Auto-saving content packages took 0.221
+[2020.04.10-14.39.23:139][563]LogSlate: Window 'Anima' being destroyed
+[2020.04.10-14.39.23:148][563]LogSlate: Window 'Anima' being destroyed
+[2020.04.10-14.39.23:374][563]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-14.39.23:378][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.10-14.39.26:495][672]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.04.10-14.39.26:849][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.04.10-14.39.27:281][672]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/FirstPersonExampleMap04CBAEDE49B51CE1B266AA85447FCBDF.tmp' to '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.10-14.39.27:326][672]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.636
+[2020.04.10-14.39.27:326][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anima" FILE="../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Content/Anima.uasset" SILENT=true
+[2020.04.10-14.39.27:355][672]LogSavePackage: Moving '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Saved/Anima8E25F2A24D2F9367CFEF3D9D9F1343DE.tmp' to '../../../../../Uni/3r/Motors2/Sotamort/Sotamort/Content/Anima.uasset'
+[2020.04.10-14.39.27:615][672]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-14.39.27:615][672]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.10-14.39.27:615][672]LogContentValidation: Display: Validating Blueprint /Game/Anima.Anima
+[2020.04.10-14.39.31:349][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.10-14.39.31:556][872]LogSlate: Window 'Sotamort - Unreal Editor' being destroyed
+[2020.04.10-14.39.31:574][872]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.10-14.39.32:081][873]Cmd: QUIT_EDITOR
+[2020.04.10-14.39.32:081][873]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.10-14.39.32:160][873]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.10-14.39.32:195][873]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.10-14.39.33:388][873]LogExit: Preparing to exit.
+[2020.04.10-14.39.34:962][873]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-14.39.34:964][873]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-14.39.34:965][873]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.10-14.39.35:066][873]LogExit: Transaction tracking system shut down
+[2020.04.10-14.39.35:222][873]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.10-14.39.35:568][873]LogExit: Editor shut down
+[2020.04.10-14.39.39:024][873]LogExit: Object subsystem successfully closed.
+[2020.04.10-14.39.39:843][873]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.10-14.39.42:122][873]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.04.10-14.39.42:122][873]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.04.10-14.39.42:185][873]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.04.10-14.39.42:252][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.04.10-14.39.42:252][873]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.04.10-14.39.42:265][873]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.04.10-14.39.42:489][873]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.04.10-14.39.42:489][873]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.04.10-14.39.42:489][873]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.04.10-14.39.42:634][873]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.04.10-14.39.42:682][873]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.04.10-14.39.42:703][873]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.04.10-14.39.42:726][873]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.04.10-14.39.42:904][873]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.04.10-14.39.42:907][873]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.04.10-14.39.42:936][873]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.04.10-14.39.42:950][873]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.04.10-14.39.42:961][873]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.04.10-14.39.42:961][873]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.04.10-14.39.42:961][873]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.04.10-14.39.42:965][873]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.04.10-14.39.42:979][873]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.04.10-14.39.43:330][873]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.04.10-14.39.43:330][873]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.04.10-14.39.43:357][873]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.04.10-14.39.43:405][873]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.04.10-14.39.43:406][873]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.04.10-14.39.43:406][873]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.04.10-14.39.43:406][873]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.04.10-14.39.43:406][873]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.04.10-14.39.43:444][873]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.04.10-14.39.43:472][873]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.04.10-14.39.43:536][873]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.04.10-14.39.43:550][873]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.04.10-14.39.43:550][873]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.04.10-14.39.43:550][873]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.04.10-14.39.43:550][873]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.04.10-14.39.43:550][873]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.04.10-14.39.43:564][873]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.04.10-14.39.43:564][873]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.04.10-14.39.43:564][873]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.04.10-14.39.43:594][873]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.04.10-14.39.43:606][873]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.04.10-14.39.43:633][873]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.04.10-14.39.43:644][873]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.04.10-14.39.43:663][873]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.04.10-14.39.43:663][873]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.04.10-14.39.43:697][873]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.04.10-14.39.43:706][873]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.04.10-14.39.44:149][873]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.04.10-14.39.44:150][873]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.04.10-14.39.44:174][873]LogModuleManager: Shutting down and abandoning module MergeActors (562)
